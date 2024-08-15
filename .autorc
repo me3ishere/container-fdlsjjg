@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "me3ishere",
+  "repo": "container-fdlsjjg",
+  "name": "me3ishere",
+  "email": "me3ishere@gmail.com",
+}
